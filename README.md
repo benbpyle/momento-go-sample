@@ -1,6 +1,6 @@
 ## Momento Golang Sample
 
-A simple repository that supports this [Article](https://www.binaryheap.com/caching-with-momento-and-golang). It highlights how to sen up the Momento client and use it in a Golang Lambda Function.
+A simple repository that supports this [Article](https://www.binaryheap.com/caching-with-momento-and-golang). It highlights how to set up the Momento client and use it in a Golang Lambda Function.
 
 ### Up and Running
 
